@@ -18,7 +18,7 @@ Introduction to Data Science
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am _passionate about
 
 - Thing 1
 Volleyball
